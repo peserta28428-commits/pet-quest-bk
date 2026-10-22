@@ -1,0 +1,6 @@
+{
+  "name": "Pet Quest BK",
+  "description": "Teman Cerita - Game konseling edukatif ramah anak SMP untuk merawat pet virtual, menyelesaikan misi, dan berani bercerita kepada Guru BK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
